@@ -49,15 +49,33 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+| S.NO | VOLTAGE (V) | CURRENT (A) |
+|-----|--------------|-------------|
+| 1   | 115          | 0.16        |
+| 2   | 120          | 0.18        |
+| 3   | 126          | 0.20        |
+| 4   | 129          | 0.21        |
+| 5   | 133          | 0.23        |
+| 6   | 135          | 0.24        |
 Tabulation for Load Test:
-
-Model graph:
+| S.NO | CURRENT (A) | VOLTAGE (V)  |
+|------|-------------|--------------|
+| 1    | 2.8         | 212          |
+| 2    | 3.2         | 208          |
+| 3    | 5.5         | 200          |
+| 4    | 7           | 195          |
+| 5    | 8.1         | 189          |
+| 6    | 11          | 179          |
+Model graph: 
 Calculation: 
 
 Open circuit characteristics
 
-  
+  ![WhatsApp Image 2025-11-26 at 8 59 47 AM](https://github.com/user-attachments/assets/29d1dd21-ceae-412b-8157-11424bf29f7f)
+
 Load Characteristics:
- 
+
+ ![WhatsApp Image 2025-11-26 at 9 02 32 AM](https://github.com/user-attachments/assets/2b2e2a46-96c5-4e99-8d5e-7faad5a47ed2)
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
