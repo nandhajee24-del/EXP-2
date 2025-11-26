@@ -66,7 +66,9 @@ Tabulation for Load Test:
 | 4    | 7           | 195          |
 | 5    | 8.1         | 189          |
 | 6    | 11          | 179          |
+
 Model graph: 
+
 Calculation: 
 
 Open circuit characteristics
